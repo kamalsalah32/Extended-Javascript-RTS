@@ -1,1 +1,0 @@
-packages/mermaid/src/diagrams/architecture/architectureDb.ts packages/mermaid/src/diagrams/architecture/architectureRenderer.ts

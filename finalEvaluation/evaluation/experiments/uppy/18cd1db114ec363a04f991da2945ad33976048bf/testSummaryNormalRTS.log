@@ -1,0 +1,20 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/dashboard/lib/components/Dashboard.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileItem/Buttons/index.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileItem/FileInfo/index.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileItem/FilePreviewAndLink/index.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileItem/FileProgress/index.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileItem/index.js
+Compiled lib: packages/@uppy/dashboard/lib/components/FileList.js
+Compiled lib: packages/@uppy/dashboard/lib/Dashboard.js
+Compiled lib: packages/@uppy/utils/lib/FileProgress.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/dashboard/src/index.test.ts  (9 tests) 33ms
+
+ Test Files  1 passed (1)
+      Tests  9 passed (9)
+   Start at  23:12:19
+   Duration  846ms (transform 122ms, setup 6ms, collect 202ms, tests 33ms, environment 132ms, prepare 26ms)
+

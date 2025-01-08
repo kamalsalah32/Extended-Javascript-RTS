@@ -1,0 +1,19 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/audio/lib/PermissionsScreen.js
+Compiled lib: packages/@uppy/aws-s3/lib/HTTPCommunicationQueue.js
+Compiled lib: packages/@uppy/aws-s3/lib/index.js
+Compiled lib: packages/@uppy/aws-s3/lib/MultipartUploader.js
+Compiled lib: packages/@uppy/aws-s3/lib/utils.js
+Compiled lib: packages/@uppy/status-bar/lib/StatusBarUI.js
+Compiled lib: packages/@uppy/webcam/lib/PermissionsScreen.js
+Compiled lib: packages/@uppy/xhr-upload/lib/index.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/aws-s3/src/index.test.ts  (11 tests) 747ms
+
+ Test Files  1 passed (1)
+      Tests  11 passed (11)
+   Start at  23:12:41
+   Duration  1.45s (transform 49ms, setup 4ms, collect 85ms, tests 747ms, environment 131ms, prepare 32ms)
+

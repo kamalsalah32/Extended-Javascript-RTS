@@ -1,0 +1,1 @@
+lib/DefinePlugin.js lib/javascript/JavascriptParser.js

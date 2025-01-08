@@ -1,0 +1,1 @@
+packages/@uppy/xhr-upload/src/index.ts

@@ -1,0 +1,14 @@
+Using Babel version: 7.23.7
+Compiled lib: packages/@uppy/core/lib/Restricter.js
+Compiled lib: packages/@uppy/core/lib/Uppy.js
+
+ RUN  v1.4.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/core/src/UIPlugin.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/core/src/Uppy.test.ts  (98 tests | 3 skipped) 34ms
+
+ Test Files  2 passed (2)
+      Tests  97 passed | 3 skipped (100)
+   Start at  16:44:33
+   Duration  707ms (transform 67ms, setup 10ms, collect 135ms, tests 37ms, environment 274ms, prepare 62ms)
+

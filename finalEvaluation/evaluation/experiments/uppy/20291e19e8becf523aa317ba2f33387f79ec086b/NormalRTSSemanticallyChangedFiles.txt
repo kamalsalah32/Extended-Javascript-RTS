@@ -1,0 +1,1 @@
+packages/@uppy/core/src/Uppy.ts packages/@uppy/transloadit/src/index.ts

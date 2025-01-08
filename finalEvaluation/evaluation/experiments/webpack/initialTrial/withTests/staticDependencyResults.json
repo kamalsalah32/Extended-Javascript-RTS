@@ -1,0 +1,489 @@
+{
+  "30ccd1baa933321873ccfd40728ab486ae0dffc4": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 20 passed, 21 total",
+        "tests": "Tests: 17 failed, 25609 passed, 25626 total",
+        "duration": "Time: 11.109 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.02643320899999998
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 20 passed, 21 total",
+        "tests": "Tests: 17 failed, 25609 passed, 25626 total",
+        "duration": "Time: 11.043 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.016800749999999993
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 44 passed, 45 total",
+        "tests": "Tests: 17 failed, 26649 passed, 26666 total",
+        "duration": "Time: 11.407 s"
+      }
+    }
+  },
+  "94fa19ad68089f056c54bba2b43b300f5ab40026": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 20 passed, 21 total",
+        "tests": "Tests: 1 failed, 25625 passed, 25626 total",
+        "duration": "Time: 10.225 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.03040466699999996
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 20 passed, 21 total",
+        "tests": "Tests: 1 failed, 25625 passed, 25626 total",
+        "duration": "Time: 10.292 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.01876274999999987
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 44 passed, 45 total",
+        "tests": "Tests: 1 failed, 26665 passed, 26666 total",
+        "duration": "Time: 11.024 s"
+      }
+    }
+  },
+  "eaab7e742c6ae9b9d4582d2cc4be60700df8b961": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.676 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.0293399169999999
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.703 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.013396042000000307
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.419 s, estimated 11 s"
+      }
+    }
+  },
+  "93743d233ab4fa36738065ebf8df5f175323b906": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 24 passed, 24 total",
+        "tests": "Tests: 25678 passed, 25678 total",
+        "duration": "Time: 10.898 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.4295531669999998
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 26 passed, 26 total",
+        "tests": "Tests: 25713 passed, 25713 total",
+        "duration": "Time: 10.479 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.28663883300000087
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.757 s, estimated 11 s"
+      }
+    }
+  },
+  "312f7ae66281f895488843dfbeb1b60245315dc2": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.565 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.023656499999999994
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.241 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.013210500000001048
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.498 s"
+      }
+    }
+  },
+  "9943f3506a397a96e920c1a5bbd45815b05b7c67": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 29 passed, 29 total",
+        "tests": "Tests: 25745 passed, 25745 total",
+        "duration": "Time: 10.309 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.3738735409999999
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 30 passed, 30 total",
+        "tests": "Tests: 25749 passed, 25749 total",
+        "duration": "Time: 10.381 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.2787731250000015
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.62 s, estimated 11 s"
+      }
+    }
+  },
+  "0b745968a22da5e2b6f2b85e55ced34096514ed0": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 23 passed, 23 total",
+        "tests": "Tests: 25657 passed, 25657 total",
+        "duration": "Time: 10.298 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.20653391599999998
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 23 passed, 23 total",
+        "tests": "Tests: 25657 passed, 25657 total",
+        "duration": "Time: 10.386 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.14242995800000063
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 44 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.807 s, estimated 11 s"
+      }
+    }
+  },
+  "b9d9a5d9ffd8d53899a4b198870377090558a32f": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 23 passed, 23 total",
+        "tests": "Tests: 25626 passed, 25626 total",
+        "duration": "Time: 10.166 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.39371237499999995
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 26 passed, 26 total",
+        "tests": "Tests: 25683 passed, 25683 total",
+        "duration": "Time: 10.417 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.29149783299999943
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.723 s, estimated 11 s"
+      }
+    }
+  },
+  "0a68cb16a4a8bc333301d2a4a14d20c09b74c450": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 22 passed, 22 total",
+        "tests": "Tests: 25614 passed, 25614 total",
+        "duration": "Time: 10.233 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.16471770900000002
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 22 passed, 22 total",
+        "tests": "Tests: 25614 passed, 25614 total",
+        "duration": "Time: 10.352 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.11162858400000004
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.543 s"
+      }
+    }
+  },
+  "c914fe202aee44cbe2548fa403bcbc03cc9187f8": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 22 passed, 22 total",
+        "tests": "Tests: 25647 passed, 25647 total",
+        "duration": "Time: 10.132 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.219496542
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 22 passed, 22 total",
+        "tests": "Tests: 25647 passed, 25647 total",
+        "duration": "Time: 10.5 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.14867170900000018
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.551 s, estimated 11 s"
+      }
+    }
+  },
+  "423e89b2c75972d325a275f2b04824a43d75bd60": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 24 passed, 24 total",
+        "tests": "Tests: 25666 passed, 25666 total",
+        "duration": "Time: 10.609 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.3129940829999999
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 26 passed, 26 total",
+        "tests": "Tests: 25682 passed, 25682 total",
+        "duration": "Time: 10.329 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.20631037500000093
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.598 s"
+      }
+    }
+  },
+  "8c468327b83da519e5955b70f6dde35d944fbffa": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 21 passed, 21 total",
+        "tests": "Tests: 26394 passed, 26394 total",
+        "duration": "Time: 10.462 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.009410000000000024
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 21 passed, 21 total",
+        "tests": "Tests: 26394 passed, 26394 total",
+        "duration": "Time: 10.501 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.005207500000000437
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26650 passed, 26650 total",
+        "duration": "Time: 10.869 s, estimated 11 s"
+      }
+    }
+  },
+  "adb1a86ae5b6a5eafa0a3f2fee403b1b2212abb3": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.683 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.02745158300000003
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25607 passed, 25607 total",
+        "duration": "Time: 10.24 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.013303916999997455
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 45 passed, 45 total",
+        "tests": "Tests: 26602 passed, 26602 total",
+        "duration": "Time: 10.889 s"
+      }
+    }
+  },
+  "b94741d870aab53a597ad2feef2068058b9be1e1": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25598 passed, 25598 total",
+        "duration": "Time: 10.414 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.03411708299999998
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25598 passed, 25598 total",
+        "duration": "Time: 10.472 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.02363733299999876
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 44 passed, 44 total",
+        "tests": "Tests: 26548 passed, 26548 total",
+        "duration": "Time: 10.705 s, estimated 11 s"
+      }
+    }
+  },
+  "93091061460ac74b4bb9ff81a0b4f32085ec9fe7": {
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25598 passed, 25598 total",
+        "duration": "Time: 10.368 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.04111754199999996
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25598 passed, 25598 total",
+        "duration": "Time: 10.602 s, estimated 11 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.021624916999997367
+    },
+    "onlyChanged": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25590 passed, 25590 total",
+        "duration": "Time: 8.928 s, estimated 9 s"
+      }
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 41 passed, 41 total",
+        "tests": "Tests: 26530 passed, 26530 total",
+        "duration": "Time: 10.83 s, estimated 11 s"
+      }
+    }
+  },
+  "cf5fc900827c78ab440303c59ba9391c5a9c03e8": {
+    "FlakyTestFiles": [
+      "/Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/webpack/test/FileSystemInfo.unittest.js"
+    ],
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 19 passed, 20 total",
+        "tests": "Tests: 3 failed, 25587 passed, 25590 total",
+        "duration": "Time: 8.907 s, estimated 9 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.10174008300000002
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 19 passed, 20 total",
+        "tests": "Tests: 1 failed, 25589 passed, 25590 total",
+        "duration": "Time: 8.599 s, estimated 9 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.06570829100000082
+    },
+    "onlyChanged": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25590 passed, 25590 total",
+        "duration": "Time: 8.928 s, estimated 9 s"
+      }
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 41 passed, 41 total",
+        "tests": "Tests: 26522 passed, 26522 total",
+        "duration": "Time: 9.167 s"
+      }
+    }
+  },
+  "bd35396503bd39f89535c67c41d9a3b71b45d173": {
+    "FlakyTestFiles": [
+      "/Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/webpack/test/FileSystemInfo.unittest.js"
+    ],
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 19 passed, 20 total",
+        "tests": "Tests: 1 failed, 25587 passed, 25588 total",
+        "duration": "Time: 8.732 s, estimated 9 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.024946124999999996
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25588 passed, 25588 total",
+        "duration": "Time: 9.223 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.014675084000002243
+    },
+    "onlyChanged": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25588 passed, 25588 total",
+        "duration": "Time: 8.909 s, estimated 9 s"
+      }
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 41 passed, 41 total",
+        "tests": "Tests: 26514 passed, 26514 total",
+        "duration": "Time: 9.259 s"
+      }
+    }
+  },
+  "b254f350a7179d058704dc1226a34ac48b2f5c2f": {
+    "FlakyTestFiles": [
+      "/Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/webpack/test/FileSystemInfo.unittest.js"
+    ],
+    "ExtendedRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 20 passed, 20 total",
+        "tests": "Tests: 25584 passed, 25584 total",
+        "duration": "Time: 8.889 s, estimated 9 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.02606979199999995
+    },
+    "NormalRTS": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 19 passed, 20 total",
+        "tests": "Tests: 1 failed, 25583 passed, 25584 total",
+        "duration": "Time: 9.007 s"
+      },
+      "changeAnalysisTimeInSeconds": 0.015242333000000144
+    },
+    "onlyChanged": {
+      "testSummary": {
+        "testFiles": "Test Suites: 1 failed, 19 passed, 20 total",
+        "tests": "Tests: 2 failed, 25582 passed, 25584 total",
+        "duration": "Time: 8.917 s, estimated 9 s"
+      }
+    },
+    "RetestAll": {
+      "testSummary": {
+        "testFiles": "Test Suites: 40 passed, 40 total",
+        "tests": "Tests: 26503 passed, 26503 total",
+        "duration": "Time: 8.841 s, estimated 9 s"
+      }
+    }
+  }
+}

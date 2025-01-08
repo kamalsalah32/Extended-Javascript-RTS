@@ -1,0 +1,43 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "Experimenting with the usage of different parsers and code generators",
+  "main": "index.js",
+  "type": "module",
+  "author": "Kamal Selim",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "git": "git diff HEAD~1 HEAD --name-status -- '*.js' > changed_files.txt",
+    "git-": "git diff HEAD~1 HEAD --name-status | grep -E '\\.js$' | grep -v '^node_modules/' > changed_files.txt",
+    "dep": "madge --json . > dependency-graph.json && node reverseDependencyGraph.js",
+    "start:nodeSRT": "npm-run-all --parallel start:server start:index",
+    "start:index": "node nodeSRT.js",
+    "start:server": "node instrument/server.js",
+    "evaluate": "tsc; node finalEvaluation/evaluate.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/generator": "^7.26.2",
+    "babel-walk": "^3.0.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "madge": "^8.0.0",
+    "npm-run-all": "^4.1.5",
+    "path": "^0.12.7",
+    "simple-git": "^3.27.0"
+  },
+  "devDependencies": {
+    "@types/babel__generator": "^7",
+    "@types/body-parser": "^1",
+    "@types/cors": "^2",
+    "@types/fs-extra": "^11",
+    "@types/node": "^22.5.2"
+  },
+  "resolutions": {
+    "@babel/types": "7.26.0"
+  }
+}

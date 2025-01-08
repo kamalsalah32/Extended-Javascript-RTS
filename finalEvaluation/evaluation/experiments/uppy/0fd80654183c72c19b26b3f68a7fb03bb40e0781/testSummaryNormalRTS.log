@@ -1,0 +1,12 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/transloadit/lib/index.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/transloadit/src/index.test.js  (4 tests | 2 skipped) 37ms
+
+ Test Files  1 passed (1)
+      Tests  2 passed | 2 skipped (4)
+   Start at  23:09:59
+   Duration  715ms (transform 41ms, setup 5ms, collect 79ms, tests 37ms, environment 132ms, prepare 27ms)
+

@@ -1,0 +1,16 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/core/lib/Uppy.js
+Compiled lib: packages/@uppy/transloadit/lib/index.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/core/src/UIPlugin.test.ts  (2 tests) 2ms
+ ✓ packages/@uppy/core/src/types.test.ts  (4 tests) 4ms
+ ✓ packages/@uppy/core/src/Uppy.test.ts  (100 tests | 3 skipped) 37ms
+ ✓ packages/@uppy/transloadit/src/index.test.js  (4 tests | 2 skipped) 41ms
+
+ Test Files  4 passed (4)
+      Tests  105 passed | 5 skipped (110)
+   Start at  23:02:59
+   Duration  831ms (transform 172ms, setup 18ms, collect 349ms, tests 84ms, environment 622ms, prepare 153ms)
+

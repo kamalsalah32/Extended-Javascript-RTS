@@ -1,0 +1,19 @@
+
+> mermaid-monorepo@10.2.4 ci /Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/mermaid
+> vitest run "related" "packages/mermaid/src/diagrams/kanban/kanbanDb.ts"
+
+(node:53520) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/mermaid
+
+filter:  related, packages/mermaid/src/diagrams/kanban/kanbanDb.ts
+include: **/*.{test,spec}.?(c|m)[jt]s?(x)
+exclude:  **/node_modules/**, **/dist/**, **/cypress/**, **/.{idea,git,cache,output,temp}/**, **/{karma,rollup,webpack,vite,vitest,jest,ava,babel,nyc,cypress,tsup,build,eslint,prettier}.config.*
+[@mermaid-js/docs] Config
+include: **/*.{test,spec}.?(c|m)[jt]s?(x)
+exclude:  **/node_modules/**, **/dist/**, **/cypress/**, **/.{idea,git,cache,output,temp}/**, **/{karma,rollup,webpack,vite,vitest,jest,ava,babel,nyc,cypress,tsup,build,eslint,prettier}.config.*
+watch exclude:  **/node_modules/**, **/dist/**
+
+No test files found, exiting with code 1
+ ELIFECYCLE  Command failed with exit code 1.

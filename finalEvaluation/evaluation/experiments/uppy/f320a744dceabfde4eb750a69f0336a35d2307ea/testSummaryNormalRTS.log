@@ -1,0 +1,12 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/tus/lib/index.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/tus/src/index.test.ts  (4 tests) 3ms
+
+ Test Files  1 passed (1)
+      Tests  4 passed (4)
+   Start at  23:04:33
+   Duration  666ms (transform 32ms, setup 4ms, collect 63ms, tests 3ms, environment 133ms, prepare 28ms)
+

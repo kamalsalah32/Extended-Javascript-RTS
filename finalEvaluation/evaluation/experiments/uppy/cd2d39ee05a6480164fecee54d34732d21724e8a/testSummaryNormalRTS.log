@@ -1,0 +1,14 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/dashboard/lib/Dashboard.js
+Compiled lib: packages/@uppy/react/lib/nonHtmlPropsHaveChanged.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/react/src/useUppyEvent.test.ts  (1 test) 9ms
+ ✓ packages/@uppy/dashboard/src/index.test.ts  (9 tests) 33ms
+
+ Test Files  2 passed (2)
+      Tests  10 passed (10)
+   Start at  23:14:33
+   Duration  859ms (transform 177ms, setup 10ms, collect 410ms, tests 42ms, environment 281ms, prepare 66ms)
+

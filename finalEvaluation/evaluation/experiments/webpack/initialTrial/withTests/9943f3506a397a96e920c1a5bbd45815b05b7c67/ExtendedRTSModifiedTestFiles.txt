@@ -1,0 +1,1 @@
+test/BuildDependencies.longtest.js test/ChangesAndRemovals.test.js test/Compiler.test.js test/Defaults.unittest.js test/MultiItemCache.unittest.js test/MultiWatching.unittest.js test/PersistentCaching.test.js test/Stats.test.js test/StatsTestCases.basictest.js test/WatcherEvents.test.js test/compareLocations.unittest.js test/deterministicGrouping.unittest.js

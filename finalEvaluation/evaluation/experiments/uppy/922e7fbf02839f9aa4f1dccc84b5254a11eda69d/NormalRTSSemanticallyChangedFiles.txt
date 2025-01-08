@@ -1,0 +1,1 @@
+packages/@uppy/core/src/UIPlugin.ts packages/@uppy/dashboard/src/Dashboard.tsx packages/@uppy/dashboard/src/components/AddFiles.tsx packages/@uppy/dashboard/src/components/Dashboard.tsx packages/@uppy/utils/src/Translator.ts

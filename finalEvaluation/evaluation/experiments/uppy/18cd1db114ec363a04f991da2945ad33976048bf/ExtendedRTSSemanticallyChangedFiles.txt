@@ -1,0 +1,1 @@
+packages/@uppy/dashboard/src/Dashboard.tsx packages/@uppy/dashboard/src/components/FileItem/Buttons/index.tsx packages/@uppy/dashboard/src/components/FileItem/FileInfo/index.tsx packages/@uppy/dashboard/src/components/FileItem/index.tsx

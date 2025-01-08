@@ -1,0 +1,20 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/core/lib/UIPlugin.js
+Compiled lib: packages/@uppy/dashboard/lib/components/AddFiles.js
+Compiled lib: packages/@uppy/dashboard/lib/components/Dashboard.js
+Compiled lib: packages/@uppy/dashboard/lib/Dashboard.js
+Compiled lib: packages/@uppy/utils/lib/Translator.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/utils/src/Translator.test.ts  (8 tests) 3ms
+ ✓ packages/@uppy/core/src/UIPlugin.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/core/src/types.test.ts  (4 tests) 4ms
+ ✓ packages/@uppy/core/src/Uppy.test.ts  (100 tests | 3 skipped) 40ms
+ ✓ packages/@uppy/dashboard/src/index.test.ts  (9 tests) 35ms
+
+ Test Files  5 passed (5)
+      Tests  120 passed | 3 skipped (123)
+   Start at  22:52:06
+   Duration  1.04s (transform 278ms, setup 27ms, collect 540ms, tests 85ms, environment 1.19s, prepare 213ms)
+

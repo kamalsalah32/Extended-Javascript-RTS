@@ -1,0 +1,12 @@
+Using Babel version: 7.23.7
+Compiled lib: packages/@uppy/aws-s3/lib/index.js
+
+ RUN  v1.2.1 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/aws-s3/src/index.test.ts  (11 tests) 773ms
+
+ Test Files  1 passed (1)
+      Tests  11 passed (11)
+   Start at  16:48:55
+   Duration  1.25s (transform 73ms, setup 7ms, collect 116ms, tests 773ms, environment 139ms, prepare 33ms)
+

@@ -1,0 +1,1 @@
+packages/@uppy/companion/src/server/emitter/redis-emitter.js

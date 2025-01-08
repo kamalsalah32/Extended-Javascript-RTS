@@ -1,0 +1,1 @@
+lib/css/CssModulesPlugin.js lib/util/createHash.js lib/util/deprecation.js test/configCases/additional-pass/simple/webpack.config.js test/configCases/finish-modules/simple/webpack.config.js test/configCases/hash-length/output-filename/test.config.js test/helpers/FakeDocument.js

@@ -1,0 +1,1 @@
+packages/@uppy/core/src/Restricter.ts packages/@uppy/core/src/Uppy.test.ts

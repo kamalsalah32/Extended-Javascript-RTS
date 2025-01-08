@@ -1,0 +1,1 @@
+packages/@uppy/dashboard/src/Dashboard.tsx packages/@uppy/react/src/nonHtmlPropsHaveChanged.ts

@@ -1,0 +1,1 @@
+packages/@uppy/dashboard/src/components/AddFiles.tsx packages/@uppy/drag-drop/src/DragDrop.tsx packages/@uppy/file-input/src/FileInput.tsx

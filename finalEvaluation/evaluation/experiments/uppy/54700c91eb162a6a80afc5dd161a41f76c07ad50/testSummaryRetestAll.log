@@ -1,0 +1,65 @@
+Using Babel version: 7.23.7
+Compiled lib: packages/@uppy/core/lib/Uppy.js
+
+ RUN  v1.4.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/utils/src/Translator.test.ts  (8 tests) 3ms
+ ✓ packages/@uppy/companion-client/src/Socket.test.ts  (10 tests) 4ms
+ ✓ packages/@uppy/transloadit/src/Assembly.test.js  (7 tests) 4ms
+ ✓ packages/@uppy/core/src/Uppy.test.ts  (98 tests | 3 skipped) 48ms
+ ✓ packages/@uppy/transloadit/src/AssemblyOptions.test.js  (6 tests) 3ms
+ ✓ packages/@uppy/transloadit/src/index.test.js  (6 tests | 2 skipped) 68ms
+ ✓ packages/@uppy/dashboard/src/index.test.ts  (9 tests) 75ms
+ ✓ packages/@uppy/aws-s3-multipart/src/createSignedURL.test.ts  (3 tests) 33ms
+ ✓ packages/@uppy/xhr-upload/src/index.test.ts  (3 tests) 45ms
+ ✓ packages/@uppy/webcam/src/Webcam.test.ts  (7 tests) 5ms
+ ✓ packages/@uppy/store-redux/src/index.test.js  (5 tests) 3ms
+ ✓ packages/@uppy/utils/src/getFileType.test.ts  (4 tests) 1ms
+ ✓ packages/@uppy/aws-s3/src/isXml.test.js  (5 tests) 3ms
+ ✓ packages/@uppy/compressor/src/index.test.ts  (1 test) 6ms
+ ✓ packages/@uppy/thumbnail-generator/src/index.test.js  (23 tests | 1 skipped) 964ms
+ ✓ packages/@uppy/core/src/supportsUploadProgress.test.ts  (2 tests) 4ms
+ ✓ packages/@uppy/aws-s3-multipart/src/index.test.ts  (13 tests) 988ms
+ ✓ packages/@uppy/aws-s3/src/index.test.js  (4 tests) 19ms
+ ✓ packages/@uppy/utils/src/AbortController.test.ts  (4 tests) 21ms
+ ✓ packages/@uppy/utils/src/truncateString.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/utils/src/RateLimitedQueue.test.ts  (3 tests) 66ms
+ ✓ packages/@uppy/remote-sources/src/index.test.ts  (3 tests) 42ms
+ ✓ packages/@uppy/utils/src/generateFileID.test.js  (1 test) 1ms
+ ✓ packages/@uppy/utils/src/delay.test.ts  (3 tests) 158ms
+ ✓ packages/@uppy/store-default/src/index.test.ts  (3 tests) 4ms
+ ✓ packages/@uppy/utils/src/isMobileDevice.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/utils/src/emaFilter.test.ts  (2 tests) 4ms
+ ✓ packages/@uppy/webcam/src/supportsMediaRecorder.test.ts  (2 tests) 2ms
+ ✓ packages/@uppy/utils/src/isNetworkError.test.ts  (1 test) 3ms
+ ✓ packages/@uppy/audio/src/supportsMediaRecorder.test.ts  (2 tests) 2ms
+ ✓ packages/@uppy/utils/src/getFileTypeExtension.test.ts  (1 test) 1ms
+ ✓ packages/@uppy/utils/src/ErrorWithCause.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/tus/src/index.test.ts  (3 tests) 3ms
+ ✓ packages/@uppy/utils/src/settle.test.js  (2 tests) 2ms
+ ✓ packages/@uppy/core/src/UIPlugin.test.ts  (2 tests) 4ms
+ ↓ packages/@uppy/utils/src/isTouchDevice.test.js  (1 test | 1 skipped)
+ ✓ packages/@uppy/utils/src/getSocketHost.test.ts  (1 test) 3ms
+ ✓ packages/@uppy/utils/src/secondsToTime.test.ts  (1 test) 1ms
+ ✓ packages/@uppy/companion-client/src/RequestClient.test.ts  (1 test) 2ms
+ ✓ packages/@uppy/utils/src/findIndex.test.js  (2 tests) 6ms
+ ✓ packages/@uppy/utils/src/prettyETA.test.ts  (1 test) 2ms
+ ✓ packages/@uppy/utils/src/isPreviewSupported.test.ts  (1 test) 2ms
+ ✓ packages/@uppy/utils/src/getSpeed.test.ts  (1 test) 1ms
+ ✓ packages/@uppy/utils/src/getFileNameAndExtension.test.ts  (2 tests) 2ms
+ ✓ packages/@uppy/utils/src/dataURItoFile.test.ts  (1 test) 4ms
+ ✓ packages/@uppy/utils/src/getETA.test.js  (1 test) 1ms
+ ✓ packages/@uppy/utils/src/getBytesRemaining.test.ts  (1 test) 3ms
+ ✓ packages/@uppy/utils/src/dataURItoBlob.test.ts  (1 test) 3ms
+ ✓ packages/@uppy/audio/src/formatSeconds.test.ts  (2 tests) 3ms
+ ✓ packages/@uppy/webcam/src/formatSeconds.test.ts  (2 tests) 2ms
+ ✓ packages/@uppy/utils/src/isObjectURL.test.ts  (1 test) 1ms
+ ✓ packages/@uppy/dashboard/src/utils/createSuperFocus.test.ts  (1 test) 1ms
+ ↓ packages/@uppy/dashboard/src/utils/copyToClipboard.test.ts  (1 test | 1 skipped)
+ ✓ packages/@uppy/utils/src/toArray.test.ts  (1 test) 2ms
+
+ Test Files  52 passed | 2 skipped (54)
+      Tests  267 passed | 8 skipped (275)
+   Start at  16:39:37
+   Duration  3.65s (transform 1.50s, setup 488ms, collect 3.11s, tests 2.64s, environment 11.64s, prepare 2.86s)
+

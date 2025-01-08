@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext", // or "CommonJS" if you're targeting CommonJS modules
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "./lib",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["./lib"],
+  "exclude": [
+    "node_modules",
+    "instrument",
+    "./**/evaluation",
+    "initialImplementation"
+  ]
+}

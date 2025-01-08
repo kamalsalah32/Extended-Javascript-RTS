@@ -1,0 +1,1 @@
+packages/@uppy/dashboard/src/Dashboard.tsx packages/@uppy/dashboard/src/components/AddFiles.tsx

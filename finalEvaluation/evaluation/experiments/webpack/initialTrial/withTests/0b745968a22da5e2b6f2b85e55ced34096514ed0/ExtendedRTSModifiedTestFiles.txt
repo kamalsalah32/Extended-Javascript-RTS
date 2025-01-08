@@ -1,0 +1,1 @@
+test/BuildDependencies.longtest.js test/HotModuleReplacementPlugin.test.js test/JavascriptParser.unittest.js test/compareStringsNumeric.unittest.js

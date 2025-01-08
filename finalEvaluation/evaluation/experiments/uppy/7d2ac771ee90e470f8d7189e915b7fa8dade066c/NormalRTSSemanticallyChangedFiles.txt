@@ -1,0 +1,1 @@
+packages/@uppy/aws-s3-multipart/src/index.test.ts packages/@uppy/aws-s3-multipart/src/index.ts

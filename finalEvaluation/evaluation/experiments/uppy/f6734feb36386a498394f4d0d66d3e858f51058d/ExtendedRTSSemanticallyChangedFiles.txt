@@ -1,0 +1,1 @@
+e2e/clients/dashboard-aws-multipart/app.js packages/@uppy/aws-s3/src/index.ts

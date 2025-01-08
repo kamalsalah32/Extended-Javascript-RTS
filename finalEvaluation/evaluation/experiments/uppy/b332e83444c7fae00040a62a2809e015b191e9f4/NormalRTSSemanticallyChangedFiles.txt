@@ -1,0 +1,1 @@
+packages/@uppy/companion/src/companion.js packages/@uppy/companion/src/server/controllers/preauth.js packages/@uppy/companion/src/server/controllers/refresh-token.js packages/@uppy/companion/src/server/middlewares.js packages/@uppy/companion/src/server/provider/index.js

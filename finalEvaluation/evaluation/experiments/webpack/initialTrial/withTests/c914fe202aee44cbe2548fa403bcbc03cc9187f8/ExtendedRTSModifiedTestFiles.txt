@@ -1,0 +1,1 @@
+test/Compiler.test.js test/HotModuleReplacementPlugin.test.js test/JavascriptParser.unittest.js test/MemoryLimitTestCases.test.js test/StatsTestCases.basictest.js

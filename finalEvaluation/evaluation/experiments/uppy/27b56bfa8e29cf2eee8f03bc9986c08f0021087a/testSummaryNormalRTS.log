@@ -1,0 +1,12 @@
+Using Babel version: 7.24.5
+Compiled lib: packages/@uppy/aws-s3/lib/MultipartUploader.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/aws-s3/src/index.test.ts  (11 tests) 785ms
+
+ Test Files  1 passed (1)
+      Tests  11 passed (11)
+   Start at  16:35:02
+   Duration  1.50s (transform 53ms, setup 7ms, collect 97ms, tests 785ms, environment 157ms, prepare 33ms)
+

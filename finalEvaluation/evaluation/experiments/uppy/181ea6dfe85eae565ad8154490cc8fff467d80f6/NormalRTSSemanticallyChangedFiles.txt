@@ -1,0 +1,1 @@
+examples/angular-example/src/app/app.component.ts packages/@uppy/core/src/Uppy.ts packages/@uppy/core/src/types.test.ts

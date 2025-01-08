@@ -1,0 +1,12 @@
+
+> javascript@1.0.0 test
+> jest Backtracking/AllCombinationsOfSizeK.js Data-Structures/Array/LocalMaximomPoint.js Data-Structures/Graph/Graph2.js
+
+No tests found, exiting with code 1
+Run with `--passWithNoTests` to exit with code 0
+In /Users/kamalsalah/Desktop/Thesis/finalEvaluation/evaluation/JavaScript
+  669 files checked.
+  testMatch: **/__tests__/**/*.[jt]s?(x), **/?(*.)+(spec|test).[tj]s?(x) - 306 matches
+  testPathIgnorePatterns: /node_modules/ - 669 matches
+  testRegex:  - 0 matches
+Pattern: Backtracking/AllCombinationsOfSizeK.js|Data-Structures/Array/LocalMaximomPoint.js|Data-Structures/Graph/Graph2.js - 0 matches

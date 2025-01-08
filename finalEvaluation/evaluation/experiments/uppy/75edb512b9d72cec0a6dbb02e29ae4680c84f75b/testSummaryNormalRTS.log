@@ -1,0 +1,12 @@
+Using Babel version: 7.24.7
+Compiled lib: packages/@uppy/xhr-upload/lib/index.js
+
+ RUN  v1.6.0 /Users/kamalsalah/Desktop/Thesis/nodeSRT/evaluation/uppy
+
+ ✓ packages/@uppy/xhr-upload/src/index.test.ts  (2 tests) 196ms
+
+ Test Files  1 passed (1)
+      Tests  2 passed (2)
+   Start at  23:00:51
+   Duration  864ms (transform 31ms, setup 4ms, collect 55ms, tests 196ms, environment 132ms, prepare 26ms)
+
